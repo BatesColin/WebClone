@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
 
+# Specs
+
+This project will have
+1 Angular directive's
+2 Full CRUD functionallity
+3 Firebase
+4 Seed Data for the Firebase Database
+5 pipes for filtering Data
+6 A router for Adding pages
+7 Authentication and Route guards
+8 API calls
+9 View similar to Etsy
+10 Tests
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
